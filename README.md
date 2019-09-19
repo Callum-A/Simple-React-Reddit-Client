@@ -1,4 +1,6 @@
 # Simple React Reddit Client
+## Hosted
+This project is now hosted on Heroku! Check it out [here](https://calledit-client.herokuapp.com/).
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies Used](#technologies-used)
